@@ -1,0 +1,15 @@
+Placeholder: Tatkal virtual queue / success predictor wireframe
+
+Replace this file with a PNG export from Figma or Excalidraw.
+
+ASCII sketch (mobile):
+
+-----------------------------------
+| Header: Train 12645 09:00 → 13:00 |
+| Success: [65%]   Queue pos: [#42] |
+| ETA: ~2m 30s                    |
+| [Cancel request]  [Notify me]   |
+| ---- Updates --------------------|
+| 1. Processing payment (attempt 1)
+| 2. Seat check…
+-----------------------------------
